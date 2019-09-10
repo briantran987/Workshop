@@ -1,0 +1,2 @@
+This is an addition to the file made in the terminal
+This seems pretty easy.
